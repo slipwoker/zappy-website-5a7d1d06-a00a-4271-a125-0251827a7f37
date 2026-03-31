@@ -142,11 +142,11 @@
   --accent: #48CAE4;
   --bg-light: #FFFFFF;
   --bg-dark: #1A2744;
-  --text-dark: #1A2744;
+  --text-dark: #4A4A4A;
   --text-light: #FFFFFF;
-  --text-muted: #00B4D8;
+  --text-muted: #707070;
   --border-light: #738b93;
-  --border-dark: #607dad;
+  --border-dark: #0077B6;
   --nav-bg: #F3EBDD;
   --nav-text: #2F2A26;
   --nav-text-hover: #C7795B;
@@ -173,7 +173,7 @@
   --gradient-gold-shine: linear-gradient(90deg, #005F92 0%, #6ED5EA 50%, #005F92 100%);
   --gradient-secondary: linear-gradient(180deg, #35C4E1 0%, #04D5FF 100%);
   --gradient-gold-accent: linear-gradient(180deg, #4ECCE5 0%, #00659B 100%);
-  --gradient-dark-section: linear-gradient(180deg, #008DA9 0%, #00778F 100%);
+  --gradient-dark-section: linear-gradient(180deg, #006EA9 0%, #005D8F 100%);
   --gradient-overlay-dark: linear-gradient(180deg, rgba(70,52,39,0.18) 0%, rgba(70,52,39,0.08) 100%);
   --gradient-light-section: linear-gradient(180deg, #FBF7F0 0%, #F4ECDD 100%);
   --gradient-overlay-light: linear-gradient(180deg, rgba(255,251,245,0.92) 0%, rgba(255,248,240,0.84) 100%);
@@ -182,8 +182,8 @@
   --accent-color: #48CAE4;
   --background-color: #FFFFFF;
   --surface-color: #EBF8FC;
-  --text-color: #1A2744;
-  --text-secondary-color: #00B4D8;
+  --text-color: #4A4A4A;
+  --text-secondary-color: #707070;
 }
 
 *,
@@ -437,7 +437,7 @@ a:hover {
 
 .btn-primary:hover {
   color: var(--text-light);
-  background: linear-gradient(180deg, #0078B7 0%, #00689F 100%);
+  background: linear-gradient(180deg, #0077B6 0%, #00689F 100%);
 }
 
 .btn-secondary {
@@ -740,11 +740,11 @@ textarea::placeholder {
   --accent: #48CAE4;
   --bg-light: #FFFFFF;
   --bg-dark: #1A2744;
-  --text-dark: #1A2744;
+  --text-dark: #4A4A4A;
   --text-light: #FFFFFF;
-  --text-muted: #00B4D8;
+  --text-muted: #707070;
   --border-light: #738b93;
-  --border-dark: #607dad;
+  --border-dark: #0077B6;
 }
 
 .navbar {
@@ -993,11 +993,11 @@ textarea::placeholder {
   --accent: #48CAE4;
   --bg-light: #FFFFFF;
   --bg-dark: #1A2744;
-  --text-dark: #1A2744;
+  --text-dark: #4A4A4A;
   --text-light: #FFFFFF;
-  --text-muted: #00B4D8;
+  --text-muted: #707070;
   --border-light: #738b93;
-  --border-dark: #607dad;
+  --border-dark: #0077B6;
 }
 
 .navbar {
@@ -2091,11 +2091,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --accent: #48CAE4;
   --bg-light: #FFFFFF;
   --bg-dark: #1A2744;
-  --text-dark: #1A2744;
+  --text-dark: #4A4A4A;
   --text-light: #FFFFFF;
-  --text-muted: #00B4D8;
+  --text-muted: #707070;
   --border-light: #738b93;
-  --border-dark: #607dad;
+  --border-dark: #0077B6;
   --footer-bg: #2F2A26;
   --footer-top-bg: #3A3530;
   --footer-text: #F3EBDD;
@@ -5608,7 +5608,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   font-family: 'Rubik', sans-serif;
   font-size: 15px;
   line-height: 1.65;
-  color: #007891;
+  color: #0077B6;
   margin: 0;
 }
 
@@ -8918,7 +8918,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 :root {
   --cc-btn-primary-bg: #3b82f6;
   --cc-btn-primary-border: #3b82f6;
-  --cc-btn-primary-hover-bg: #2269dd;
+  --cc-btn-primary-hover-bg: #0077B6;
 }
 
 #cc--main {
@@ -9228,6 +9228,8 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+
 /* === BUTTON TEXT OVERRIDES START === */
 .btn-primary,
 .btn--primary,
