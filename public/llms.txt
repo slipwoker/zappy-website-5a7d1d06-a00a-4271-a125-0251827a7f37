@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חברת כוח אדם מובילה המספקת עובדים ישראלים וזרים לבתי אבות, מלונות, מפעלים ומחסנים. פתרונות כוח אדם מותאמים אישית לצווארון הכחול — מהיר, אמין ומקצועי.
+
+### שירותים
+https://example.com/services
+שירותי גיוס עובדים זרים וישראלים לכל ענף — סיעוד, אירוח, ייצור ולוגיסטיקה. אנו מספקים כוח אדם מיומן ואמין בזמן קצר, בהתאם לצרכים המדויקים של העסק שלך.
+
+### אודות
+https://example.com/about
+למדו מי אנחנו ולמה עסקים בתחום הצווארון הכחול בוחרים בנו שוב ושוב. ניסיון עשיר בשרותי כוח אדם, מחויבות לאיכות ויחס אישי שמביא תוצאות אמיתיות בשטח.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עוד היום עם צוות המומחים שלנו לגיוס עובדים וקבלו הצעה מותאמת לעסק שלכם. בתי אבות, מלונות, מפעלים ומחסנים — אנחנו כאן כדי לפתור את אתגר כוח האדם שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
